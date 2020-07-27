@@ -1,6 +1,6 @@
 # PDXCodeGuildLabSolutions
 
-solutions for the python fullstack course
+Solutions for the [Python Fullstack course at PDX Code Guild](https://github.com/PdxCodeGuild/class_mountain_goat).
 
 
 ## Solutions
